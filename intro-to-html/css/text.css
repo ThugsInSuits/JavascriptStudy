@@ -1,0 +1,44 @@
+p {
+  font-family: 'Pixelify Sans', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 290px;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+.view {
+  color: grey;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 14px;
+
+}
+
+.description {
+  width: 200px;
+  color: grey;
+  line-height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.span-class {
+  background-color: red;
+  width: 600px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+
+.click-in:hover {
+  text-decoration: underline;
+}

@@ -1,4 +1,4 @@
-<style>
+
   .subscribe-button{
     background-color: rgb(184, 2, 2);
     border: none;
@@ -53,8 +53,3 @@
   .tweet-button:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
   }
-</style>
-
-<button class="subscribe-button">SUBSCRIBE</button>
-<button class="join-button">JOIN</button>
-<button class="tweet-button">Tweet</button>
