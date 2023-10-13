@@ -1,0 +1,9 @@
+.sider{
+  position: fixed;
+  top: 55px;
+  width: 70px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  
+}
